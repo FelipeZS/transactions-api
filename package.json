@@ -6,9 +6,10 @@
   "author": "Silas <silas.stg@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/main.js" 
-  }, 
+    "dev": "nodemon src/main.js"
+  },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "uuidv4": "^6.2.1"
   }
 }
